@@ -1,6 +1,6 @@
 @font-face {
   font-family: "bootstrap-icons";
-  src: url("../fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"),
+  src: url("https://raw.githack.com/hosnyegy/bootstraprtl/main/bootstrap-icons.woff2") format("woff2"),
 url("https://raw.githack.com/hosnyegy/bootstraprtl/main/bootstrap-icons.woff") format("woff");
 }
 
